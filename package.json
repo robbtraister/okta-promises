@@ -1,0 +1,24 @@
+{
+  "name": "okta-promises",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./lib/okta",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robbtraister/okta-promises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robbtraister/okta-promises/issues"
+  },
+  "homepage": "https://github.com/robbtraister/okta-promises#readme",
+  "dependencies": {
+    "debug": "^2.6.1",
+    "request": "^2.79.0",
+    "request-promise-native": "^1.0.3"
+  }
+}
