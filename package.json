@@ -23,6 +23,6 @@
   },
   "bin": {
     "okta-reset-pw": "./bin/reset-password.js",
-    "okta-reset-pw-url": "./bin/reset-password-url.js",
+    "okta-reset-pw-url": "./bin/reset-password-url.js"
   }
 }
