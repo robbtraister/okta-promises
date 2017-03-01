@@ -20,5 +20,9 @@
     "debug": "^2.6.1",
     "request": "^2.79.0",
     "request-promise-native": "^1.0.3"
+  },
+  "bin": {
+    "okta-reset-pw": "./bin/reset-password.js",
+    "okta-reset-pw-url": "./bin/reset-password-url.js",
   }
 }
