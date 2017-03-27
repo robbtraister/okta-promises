@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var Okta = require('.');
+var Okta = require('..');
 
 
 function resetPassword(domain, token, username) {
