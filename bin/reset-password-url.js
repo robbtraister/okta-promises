@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+'use strict'
+
 var Okta = require('..')
 
 function resetPasswordUrl (domain, token, username) {
